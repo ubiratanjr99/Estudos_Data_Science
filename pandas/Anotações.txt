@@ -1,0 +1,7 @@
+- .unique(): "remover duplicadas".
+- .nunique(): retorna a quantidade de valores únicos.
+- df['Coluna'].rename(columns{'nome_atual_coluna': 'novo_nome_coluna'}): renomeia uma coluna específica.
+- df.iloc[:, [0, 1]]: vai selecionar as colunas que iram aparecer no output com base no indíce especificado.
+- .plot(kind='bar', color='purple'): cria um gráfico com base no df. kind='bar' é um "tipo" de gráfico de barra. 
+	P.S: tem que ter apenas 2 valores, onde um vai ser o eixo x e o outro o eixo y.
+- .invert_yaxis() ou .invert_xaxis(): função que vai inverter o eixo do gráfico.
