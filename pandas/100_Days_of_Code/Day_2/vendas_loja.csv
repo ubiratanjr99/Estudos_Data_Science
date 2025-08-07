@@ -1,0 +1,101 @@
+data;produto;categoria;quantidade;preco_unitario;valor_total
+2025-07-30;Fone de Ouvido;Periféricos;4;4589,94;18359,76
+2025-07-08;Laptop;Eletrônicos;4;3526,15;14104,6
+2025-06-01;Fone de Ouvido;Periféricos;3;1068,22;3204,66
+2025-06-28;Fone de Ouvido;Periféricos;2;933,85;1867,7
+2025-07-21;SSD Externo;Periféricos;3;2390,2;7170,6
+2025-05-13;Smartphone;Eletrônicos;1;488,57;488,57
+2025-05-09;SSD Externo;Periféricos;2;3977,62;7955,24
+2025-06-21;Laptop;Eletrônicos;1;4607,33;4607,33
+2025-06-27;Laptop;Eletrônicos;2;4914,51;9829,02
+2025-05-30;Laptop;Eletrônicos;4;4917,07;19668,28
+2025-06-23;Fone de Ouvido;Periféricos;2;954,12;1908,24
+2025-07-11;Carregador;Periféricos;3;3465,47;10396,41
+2025-06-19;Laptop;Eletrônicos;3;1314,19;3942,57
+2025-06-20;Mesa de Escritório;Móveis;1;3636,78;3636,78
+2025-07-08;Tablet;Eletrônicos;4;4698,11;18792,44
+2025-07-18;Carregador;Periféricos;1;4773,66;4773,66
+2025-07-12;Cadeira Gamer;Móveis;2;4293,76;8587,52
+2025-05-31;Carregador;Periféricos;1;2764,15;2764,15
+2025-07-31;Smartphone;Eletrônicos;1;3442,05;3442,05
+2025-07-29;Mouse;Periféricos;3;1429,57;4288,71
+2025-07-22;Mouse;Periféricos;1;1226,2;1226,2
+2025-08-04;Tablet;Eletrônicos;4;99,6;398,4
+2025-07-25;Teclado;Periféricos;3;4425,78;13277,34
+2025-05-30;Caixa de Som;Periféricos;4;4255,68;17022,72
+2025-05-22;Mesa de Escritório;Móveis;1;1207,26;1207,26
+2025-07-07;Laptop;Eletrônicos;3;2964,93;8894,79
+2025-07-10;Tablet;Eletrônicos;2;4521,15;9042,3
+2025-07-18;Monitor;Eletrônicos;1;2126,97;2126,97
+2025-05-26;Mesa de Escritório;Móveis;2;323,18;646,36
+2025-07-10;Impressora;Eletrônicos;2;66,37;132,74
+2025-07-12;Laptop;Eletrônicos;2;4685,3;9370,6
+2025-06-07;Tablet;Eletrônicos;1;4268,78;4268,78
+2025-07-27;Webcam;Periféricos;4;2869,56;11478,24
+2025-06-26;Fone de Ouvido;Periféricos;4;3052,85;12211,4
+2025-05-26;Mesa de Escritório;Móveis;3;3080,28;9240,84
+2025-07-13;Caixa de Som;Periféricos;4;1513,75;6055,0
+2025-05-13;SSD Externo;Periféricos;2;1667,09;3334,18
+2025-06-26;Caixa de Som;Periféricos;1;596,12;596,12
+2025-08-01;Tablet;Eletrônicos;4;281,27;1125,08
+2025-05-21;Smartphone;Eletrônicos;2;1244,79;2489,58
+2025-07-29;Fone de Ouvido;Periféricos;4;4887,1;19548,4
+2025-05-27;Webcam;Periféricos;2;236,61;473,22
+2025-06-12;Caixa de Som;Periféricos;4;81,34;325,36
+2025-05-10;Mouse;Periféricos;4;1319,67;5278,68
+2025-05-12;Webcam;Periféricos;1;3336,26;3336,26
+2025-06-19;Mesa de Escritório;Móveis;1;4918,75;4918,75
+2025-07-01;Impressora;Eletrônicos;3;3031,9;9095,7
+2025-06-26;Mouse;Periféricos;3;2074,33;6222,99
+2025-06-25;Fone de Ouvido;Periféricos;3;3405,59;10216,77
+2025-07-29;Laptop;Eletrônicos;4;3644,61;14578,44
+2025-05-23;Caixa de Som;Periféricos;1;1195,46;1195,46
+2025-05-29;Carregador;Periféricos;2;638,19;1276,38
+2025-07-06;HD Externo;Periféricos;1;4413,61;4413,61
+2025-07-03;Teclado;Periféricos;2;1727,62;3455,24
+2025-06-17;Smartphone;Eletrônicos;2;195,79;391,58
+2025-06-13;Mesa de Escritório;Móveis;3;4043,0;12129,0
+2025-06-20;Laptop;Eletrônicos;2;3162,65;6325,3
+2025-07-06;Impressora;Eletrônicos;3;2218,41;6655,23
+2025-07-20;Cadeira Gamer;Móveis;1;1629,64;1629,64
+2025-07-27;Monitor;Eletrônicos;2;145,78;291,56
+2025-07-25;Carregador;Periféricos;1;288,54;288,54
+2025-07-17;Smartphone;Eletrônicos;2;1868,38;3736,76
+2025-05-13;HD Externo;Periféricos;3;2164,03;6492,09
+2025-06-15;Mouse;Periféricos;2;383,27;766,54
+2025-06-01;Webcam;Periféricos;1;3829,03;3829,03
+2025-07-14;Impressora;Eletrônicos;4;351,39;1405,56
+2025-05-22;Tablet;Eletrônicos;2;3267,2;6534,4
+2025-06-21;Mesa de Escritório;Móveis;2;2004,82;4009,64
+2025-06-25;Mesa de Escritório;Móveis;4;710,68;2842,72
+2025-05-09;HD Externo;Periféricos;2;2066,22;4132,44
+2025-06-13;Tablet;Eletrônicos;2;437,02;874,04
+2025-05-09;Tablet;Eletrônicos;3;2870,4;8611,2
+2025-06-27;Cadeira Gamer;Móveis;4;613,47;2453,88
+2025-06-03;Monitor;Eletrônicos;4;2021,12;8084,48
+2025-06-07;Laptop;Eletrônicos;1;4320,94;4320,94
+2025-07-09;Laptop;Eletrônicos;3;2093,86;6281,58
+2025-07-20;Fone de Ouvido;Periféricos;3;995,18;2985,54
+2025-07-13;Webcam;Periféricos;4;4364,12;17456,48
+2025-07-17;Carregador;Periféricos;3;693,79;2081,37
+2025-06-12;HD Externo;Periféricos;3;3446,44;10339,32
+2025-05-16;Tablet;Eletrônicos;1;435,94;435,94
+2025-05-11;Carregador;Periféricos;3;252,17;756,51
+2025-05-15;Webcam;Periféricos;3;1905,07;5715,21
+2025-06-16;Webcam;Periféricos;4;4587,57;18350,28
+2025-06-15;Monitor;Eletrônicos;4;3235,78;12943,12
+2025-06-20;Mouse;Periféricos;3;4215,71;12647,13
+2025-07-26;Webcam;Periféricos;2;4441,57;8883,14
+2025-06-13;Impressora;Eletrônicos;2;4049,57;8099,14
+2025-07-24;SSD Externo;Periféricos;3;1000,17;3000,51
+2025-06-01;Mouse;Periféricos;2;668,68;1337,36
+2025-06-12;HD Externo;Periféricos;2;2306,62;4613,24
+2025-07-31;SSD Externo;Periféricos;1;1755,97;1755,97
+2025-05-22;SSD Externo;Periféricos;4;4025,49;16101,96
+2025-05-26;Mesa de Escritório;Móveis;3;88,76;266,28
+2025-05-17;Caixa de Som;Periféricos;3;2458,3;7374,9
+2025-05-10;Teclado;Periféricos;3;81,19;243,57
+2025-07-29;HD Externo;Periféricos;2;75,73;151,46
+2025-06-05;Teclado;Periféricos;3;1298,77;3896,31
+2025-07-22;Teclado;Periféricos;2;123,59;247,18
+2025-06-07;Smartphone;Eletrônicos;2;4147,16;8294,32
