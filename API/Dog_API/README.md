@@ -4,3 +4,7 @@ Realizar um request na API e guardar o retorno em um arquivo Excel (.xlsx).
 ## Link da API: 
 https://dogapi.dog/docs/api-v2
 
+## Arquivos:
+- app.py: aplicação principal.
+- notes.ipynb: arquivo usado para testar a API para desenvolver a aplicação posteriormente.
+- relatorio.xlsx: arquivo gerado pela aplicação com os dados coletados da API.
